@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xfdf xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve">
+  <annots>
+    <freetext page="0" rect="124.56,623.52,212.76,675.72" rotation="0" color="#FFFFFF" title="YathavakrishnanMohan" subject="Free Text" date="D:20261119184404+05'30'" flags="print" name="d642e83f-9eda-48e2-b5d8-079adb77a9c2" fringe="0,0,0,0" width="6" border="0,0,6" justification="0" IT="FreeTextTypeWriter">
+      <defaultappearance>0 0 0 rg </defaultappearance>
+      <defaultstyle>font:Arial 7.2pt;style:Regular;color:#000000</defaultstyle>
+      <contents-richtext><body xmlns="http://www.w3.org/1999/xhtml" style = "font:7.2pt;font-weight:normal;color:#000000;font-family:Arial"><p dir="ltr"><span style = "text-align:left;">test</span></p></body></contents-richtext>
+      <contents>test</contents>
+    </freetext>
+    <text page="0" name="6d3aaa81-939e-4d86-810d-21e313365550" state="None" statemodel="None" inreplyto="d642e83f-9eda-48e2-b5d8-079adb77a9c2" flags="hidden,print,nozoom,norotate" icon="#23CustomIcon" rect="0,792,0,792" />
+  </annots>
+  <f href="" />
+</xfdf>
